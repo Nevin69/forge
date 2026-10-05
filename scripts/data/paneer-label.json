@@ -1,0 +1,34 @@
+{
+  "id": "label-amul-fresh-paneer",
+  "name": "Amul Fresh Paneer \u00b7 package reference",
+  "description": "Manufacturer product page (2022 label); check your current pack. Not a generic value for every paneer. Values per 100 g; label serving 50 g.",
+  "category": "Dairy & soy",
+  "vegetarian": true,
+  "basis": 100,
+  "nutrients": {
+    "calories": 312,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 24,
+    "fibre": null,
+    "calcium": 480,
+    "iron": null,
+    "magnesium": null,
+    "potassium": null,
+    "sodium": 24,
+    "zinc": null,
+    "vitaminA": null,
+    "vitaminC": null,
+    "vitaminD": null,
+    "vitaminB12": null,
+    "folate": null
+  },
+  "source": "Sabar Dairy / Amul Fresh Paneer product specification \u00b7 accessed 5 Oct 2026",
+  "sourceUrl": "https://sabardairy.org/product/amul-fresh-paneer/",
+  "measures": [
+    {
+      "name": "label serving",
+      "grams": 50
+    }
+  ]
+}

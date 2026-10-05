@@ -1,0 +1,1936 @@
+[
+  {
+    "id": "usda-168462",
+    "name": "Spinach / palak \u00b7 raw",
+    "description": "Spinach, raw",
+    "category": "Vegetables",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 23.0,
+      "protein": 2.86,
+      "carbs": 3.63,
+      "fat": 0.39,
+      "fibre": 2.2,
+      "calcium": 99.0,
+      "iron": 2.71,
+      "magnesium": 79.0,
+      "potassium": 558.0,
+      "sodium": 79.0,
+      "zinc": 0.53,
+      "vitaminA": 469.0,
+      "vitaminC": 28.1,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 194.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 168462",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/168462/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 30.0
+      },
+      {
+        "name": "1 bunch",
+        "grams": 340.0
+      },
+      {
+        "name": "1 leaf",
+        "grams": 10.0
+      },
+      {
+        "name": "1 package (10 oz)",
+        "grams": 284.0
+      }
+    ]
+  },
+  {
+    "id": "usda-168893",
+    "name": "Whole-wheat flour / atta \u00b7 dry",
+    "description": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+    "category": "Grains",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 340.0,
+      "protein": 13.21,
+      "carbs": 71.97,
+      "fat": 2.5,
+      "fibre": 10.7,
+      "calcium": 34.0,
+      "iron": 3.6,
+      "magnesium": 137.0,
+      "potassium": 363.0,
+      "sodium": 2.0,
+      "zinc": 2.6,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 44.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 168893",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/168893/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 120.0
+      }
+    ]
+  },
+  {
+    "id": "usda-169097",
+    "name": "Orange \u00b7 raw",
+    "description": "Oranges, raw, all commercial varieties",
+    "category": "Fruit",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 47.0,
+      "protein": 0.94,
+      "carbs": 11.75,
+      "fat": 0.12,
+      "fibre": 2.4,
+      "calcium": 40.0,
+      "iron": 0.1,
+      "magnesium": 10.0,
+      "potassium": 181.0,
+      "sodium": 0.0,
+      "zinc": 0.07,
+      "vitaminA": 11.0,
+      "vitaminC": 53.2,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 30.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 169097",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/169097/nutrients",
+    "measures": [
+      {
+        "name": "1 cup, sections",
+        "grams": 180.0
+      },
+      {
+        "name": "1 large (3-1/16\" dia)",
+        "grams": 184.0
+      },
+      {
+        "name": "1 small (2-3/8\" dia)",
+        "grams": 96.0
+      },
+      {
+        "name": "1 fruit (2-5/8\" dia)",
+        "grams": 131.0
+      }
+    ]
+  },
+  {
+    "id": "usda-169414",
+    "name": "Flaxseed / alsi",
+    "description": "Seeds, flaxseed",
+    "category": "Nuts & seeds",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 534.0,
+      "protein": 18.29,
+      "carbs": 28.88,
+      "fat": 42.16,
+      "fibre": 27.3,
+      "calcium": 255.0,
+      "iron": 5.73,
+      "magnesium": 392.0,
+      "potassium": 813.0,
+      "sodium": 30.0,
+      "zinc": 4.34,
+      "vitaminA": 0.0,
+      "vitaminC": 0.6,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 87.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 169414",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/169414/nutrients",
+    "measures": [
+      {
+        "name": "1 tbsp, whole",
+        "grams": 10.3
+      },
+      {
+        "name": "1 cup, whole",
+        "grams": 168.0
+      },
+      {
+        "name": "1 tbsp, ground",
+        "grams": 7.0
+      },
+      {
+        "name": "1 tsp, whole",
+        "grams": 3.4
+      },
+      {
+        "name": "1 tsp, ground",
+        "grams": 2.5
+      }
+    ]
+  },
+  {
+    "id": "usda-169756",
+    "name": "White rice \u00b7 raw",
+    "description": "Rice, white, long-grain, regular, raw, unenriched",
+    "category": "Grains",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 365.0,
+      "protein": 7.13,
+      "carbs": 79.95,
+      "fat": 0.66,
+      "fibre": 1.3,
+      "calcium": 28.0,
+      "iron": 0.8,
+      "magnesium": 25.0,
+      "potassium": 115.0,
+      "sodium": 5.0,
+      "zinc": 1.09,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 8.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 169756",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/169756/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 185.0
+      }
+    ]
+  },
+  {
+    "id": "usda-169757",
+    "name": "White rice \u00b7 cooked, no salt",
+    "description": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+    "category": "Grains",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 130.0,
+      "protein": 2.69,
+      "carbs": 28.17,
+      "fat": 0.28,
+      "fibre": 0.4,
+      "calcium": 10.0,
+      "iron": 0.2,
+      "magnesium": 12.0,
+      "potassium": 35.0,
+      "sodium": 1.0,
+      "zinc": 0.49,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 3.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 169757",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/169757/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 158.0
+      }
+    ]
+  },
+  {
+    "id": "usda-169910",
+    "name": "Mango \u00b7 raw",
+    "description": "Mangos, raw",
+    "category": "Fruit",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 60.0,
+      "protein": 0.82,
+      "carbs": 14.98,
+      "fat": 0.38,
+      "fibre": 1.6,
+      "calcium": 11.0,
+      "iron": 0.16,
+      "magnesium": 10.0,
+      "potassium": 168.0,
+      "sodium": 1.0,
+      "zinc": 0.09,
+      "vitaminA": 54.0,
+      "vitaminC": 36.4,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 43.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 169910",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/169910/nutrients",
+    "measures": [
+      {
+        "name": "1 cup pieces",
+        "grams": 165.0
+      },
+      {
+        "name": "1 fruit without refuse",
+        "grams": 336.0
+      }
+    ]
+  },
+  {
+    "id": "usda-169986",
+    "name": "Cauliflower / gobi \u00b7 raw",
+    "description": "Cauliflower, raw",
+    "category": "Vegetables",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 25.0,
+      "protein": 1.92,
+      "carbs": 4.97,
+      "fat": 0.28,
+      "fibre": 2.0,
+      "calcium": 22.0,
+      "iron": 0.42,
+      "magnesium": 15.0,
+      "potassium": 299.0,
+      "sodium": 30.0,
+      "zinc": 0.27,
+      "vitaminA": 0.0,
+      "vitaminC": 48.2,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 57.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 169986",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/169986/nutrients",
+    "measures": [
+      {
+        "name": "1 cup chopped (1/2\" pieces)",
+        "grams": 107.0
+      },
+      {
+        "name": "1 floweret",
+        "grams": 13.0
+      },
+      {
+        "name": "1 head large (6-7\" dia.)",
+        "grams": 840.0
+      },
+      {
+        "name": "1 head medium (5-6\" dia.)",
+        "grams": 588.0
+      },
+      {
+        "name": "1 head small (4\" dia.)",
+        "grams": 265.0
+      }
+    ]
+  },
+  {
+    "id": "usda-170000",
+    "name": "Onion \u00b7 raw",
+    "description": "Onions, raw",
+    "category": "Vegetables",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 40.0,
+      "protein": 1.1,
+      "carbs": 9.34,
+      "fat": 0.1,
+      "fibre": 1.7,
+      "calcium": 23.0,
+      "iron": 0.21,
+      "magnesium": 10.0,
+      "potassium": 146.0,
+      "sodium": 4.0,
+      "zinc": 0.17,
+      "vitaminA": 0.0,
+      "vitaminC": 7.4,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 19.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 170000",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/170000/nutrients",
+    "measures": [
+      {
+        "name": "1 cup, chopped",
+        "grams": 160.0
+      },
+      {
+        "name": "1 cup, sliced",
+        "grams": 115.0
+      },
+      {
+        "name": "1 tbsp chopped",
+        "grams": 10.0
+      },
+      {
+        "name": "1 large",
+        "grams": 150.0
+      },
+      {
+        "name": "1 slice, large (1/4\" thick)",
+        "grams": 38.0
+      },
+      {
+        "name": "1 medium (2-1/2\" dia)",
+        "grams": 110.0
+      },
+      {
+        "name": "1 slice, medium (1/8\" thick)",
+        "grams": 14.0
+      },
+      {
+        "name": "1 small",
+        "grams": 70.0
+      },
+      {
+        "name": "1 slice, thin",
+        "grams": 9.0
+      },
+      {
+        "name": "10 rings",
+        "grams": 60.0
+      }
+    ]
+  },
+  {
+    "id": "usda-170026",
+    "name": "Potato \u00b7 raw, skin on",
+    "description": "Potatoes, flesh and skin, raw",
+    "category": "Vegetables",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 77.0,
+      "protein": 2.05,
+      "carbs": 17.49,
+      "fat": 0.09,
+      "fibre": 2.1,
+      "calcium": 12.0,
+      "iron": 0.81,
+      "magnesium": 23.0,
+      "potassium": 425.0,
+      "sodium": 6.0,
+      "zinc": 0.3,
+      "vitaminA": 0.0,
+      "vitaminC": 19.7,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 15.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 170026",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/170026/nutrients",
+    "measures": [
+      {
+        "name": "0.5 cup, diced",
+        "grams": 75.0
+      },
+      {
+        "name": "1 Potato large (3\" to 4-1/4\" dia)",
+        "grams": 369.0
+      },
+      {
+        "name": "1 Potato medium (2-1/4\" to 3-1/4\" dia)",
+        "grams": 213.0
+      },
+      {
+        "name": "1 Potato small (1-3/4\" to 2-1/2\" dia)",
+        "grams": 170.0
+      }
+    ]
+  },
+  {
+    "id": "usda-170393",
+    "name": "Carrot \u00b7 raw",
+    "description": "Carrots, raw",
+    "category": "Vegetables",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 41.0,
+      "protein": 0.93,
+      "carbs": 9.58,
+      "fat": 0.24,
+      "fibre": 2.8,
+      "calcium": 33.0,
+      "iron": 0.3,
+      "magnesium": 12.0,
+      "potassium": 320.0,
+      "sodium": 69.0,
+      "zinc": 0.24,
+      "vitaminA": 835.0,
+      "vitaminC": 5.9,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 19.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 170393",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/170393/nutrients",
+    "measures": [
+      {
+        "name": "1 cup chopped",
+        "grams": 128.0
+      },
+      {
+        "name": "1 cup grated",
+        "grams": 110.0
+      },
+      {
+        "name": "1 cup strips or slices",
+        "grams": 122.0
+      },
+      {
+        "name": "1 large (7-1/4\" to 8-/1/2\" long)",
+        "grams": 72.0
+      },
+      {
+        "name": "1 medium",
+        "grams": 61.0
+      },
+      {
+        "name": "1 small (5-1/2\" long)",
+        "grams": 50.0
+      },
+      {
+        "name": "1 slice",
+        "grams": 3.0
+      },
+      {
+        "name": "1 strip large (3\" long)",
+        "grams": 7.0
+      },
+      {
+        "name": "1 strip medium",
+        "grams": 4.0
+      }
+    ]
+  },
+  {
+    "id": "usda-170419",
+    "name": "Green peas \u00b7 raw",
+    "description": "Peas, green, raw",
+    "category": "Vegetables",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 81.0,
+      "protein": 5.42,
+      "carbs": 14.45,
+      "fat": 0.4,
+      "fibre": 5.7,
+      "calcium": 25.0,
+      "iron": 1.47,
+      "magnesium": 33.0,
+      "potassium": 244.0,
+      "sodium": 5.0,
+      "zinc": 1.24,
+      "vitaminA": 38.0,
+      "vitaminC": 40.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 65.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 170419",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/170419/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 145.0
+      }
+    ]
+  },
+  {
+    "id": "usda-170457",
+    "name": "Tomato \u00b7 raw",
+    "description": "Tomatoes, red, ripe, raw, year round average",
+    "category": "Vegetables",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 18.0,
+      "protein": 0.88,
+      "carbs": 3.89,
+      "fat": 0.2,
+      "fibre": 1.2,
+      "calcium": 10.0,
+      "iron": 0.27,
+      "magnesium": 11.0,
+      "potassium": 237.0,
+      "sodium": 5.0,
+      "zinc": 0.17,
+      "vitaminA": 42.0,
+      "vitaminC": 13.7,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 15.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 170457",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/170457/nutrients",
+    "measures": [
+      {
+        "name": "1 cup cherry tomatoes",
+        "grams": 149.0
+      },
+      {
+        "name": "1 cup, chopped or sliced",
+        "grams": 180.0
+      },
+      {
+        "name": "1 Italian tomato",
+        "grams": 62.0
+      },
+      {
+        "name": "1 cherry",
+        "grams": 17.0
+      },
+      {
+        "name": "1 large whole (3\" dia)",
+        "grams": 182.0
+      },
+      {
+        "name": "1 medium whole (2-3/5\" dia)",
+        "grams": 123.0
+      },
+      {
+        "name": "1 slice, medium (1/4\" thick)",
+        "grams": 20.0
+      },
+      {
+        "name": "1 plum tomato",
+        "grams": 62.0
+      },
+      {
+        "name": "1 small whole (2-2/5\" dia)",
+        "grams": 91.0
+      },
+      {
+        "name": "1 slice, thick/large (1/2\" thick)",
+        "grams": 27.0
+      },
+      {
+        "name": "1 wedge (1/4 of medium tomato)",
+        "grams": 31.0
+      },
+      {
+        "name": "1 slice, thin/small",
+        "grams": 15.0
+      },
+      {
+        "name": "1 NLEA serving",
+        "grams": 148.0
+      }
+    ]
+  },
+  {
+    "id": "usda-170554",
+    "name": "Chia seeds \u00b7 dried",
+    "description": "Seeds, chia seeds, dried",
+    "category": "Nuts & seeds",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 486.0,
+      "protein": 16.54,
+      "carbs": 42.12,
+      "fat": 30.74,
+      "fibre": 34.4,
+      "calcium": 631.0,
+      "iron": 7.72,
+      "magnesium": 335.0,
+      "potassium": 407.0,
+      "sodium": 16.0,
+      "zinc": 4.58,
+      "vitaminA": null,
+      "vitaminC": 1.6,
+      "vitaminD": null,
+      "vitaminB12": 0.0,
+      "folate": null
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 170554",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/170554/nutrients",
+    "measures": [
+      {
+        "name": "1 oz",
+        "grams": 28.35
+      }
+    ]
+  },
+  {
+    "id": "usda-170567",
+    "name": "Almonds",
+    "description": "Nuts, almonds",
+    "category": "Nuts & seeds",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 579.0,
+      "protein": 21.15,
+      "carbs": 21.55,
+      "fat": 49.93,
+      "fibre": 12.5,
+      "calcium": 269.0,
+      "iron": 3.71,
+      "magnesium": 270.0,
+      "potassium": 733.0,
+      "sodium": 1.0,
+      "zinc": 3.12,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 44.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 170567",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/170567/nutrients",
+    "measures": [
+      {
+        "name": "1 cup, whole",
+        "grams": 143.0
+      },
+      {
+        "name": "1 cup, sliced",
+        "grams": 92.0
+      },
+      {
+        "name": "1 cup, slivered",
+        "grams": 108.0
+      },
+      {
+        "name": "1 cup, ground",
+        "grams": 95.0
+      },
+      {
+        "name": "1 oz (23 whole kernels)",
+        "grams": 28.35
+      },
+      {
+        "name": "1 almond",
+        "grams": 1.2
+      }
+    ]
+  },
+  {
+    "id": "usda-171025",
+    "name": "Sunflower oil \u00b7 linoleic",
+    "description": "Oil, sunflower, linoleic, (approx. 65%)",
+    "category": "Oils & extras",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 884.0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 100.0,
+      "fibre": 0.0,
+      "calcium": 0.0,
+      "iron": 0.0,
+      "magnesium": 0.0,
+      "potassium": 0.0,
+      "sodium": 0.0,
+      "zinc": 0.0,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 0.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 171025",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/171025/nutrients",
+    "measures": [
+      {
+        "name": "1 tbsp",
+        "grams": 13.6
+      },
+      {
+        "name": "1 cup",
+        "grams": 218.0
+      },
+      {
+        "name": "1 tsp",
+        "grams": 4.5
+      }
+    ]
+  },
+  {
+    "id": "usda-171284",
+    "name": "Plain whole-milk yogurt / curd",
+    "description": "Yogurt, plain, whole milk",
+    "category": "Dairy & soy",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 61.0,
+      "protein": 3.47,
+      "carbs": 4.66,
+      "fat": 3.25,
+      "fibre": 0.0,
+      "calcium": 121.0,
+      "iron": 0.05,
+      "magnesium": 12.0,
+      "potassium": 155.0,
+      "sodium": 46.0,
+      "zinc": 0.59,
+      "vitaminA": 27.0,
+      "vitaminC": 0.5,
+      "vitaminD": 0.1,
+      "vitaminB12": 0.37,
+      "folate": 7.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 171284",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/171284/nutrients",
+    "measures": [
+      {
+        "name": "1 container (6 oz)",
+        "grams": 170.0
+      },
+      {
+        "name": "1 container (8 oz)",
+        "grams": 227.0
+      },
+      {
+        "name": "0.5 container (4 oz)",
+        "grams": 113.0
+      },
+      {
+        "name": "1 cup (8 fl oz)",
+        "grams": 245.0
+      }
+    ]
+  },
+  {
+    "id": "usda-171287",
+    "name": "Egg \u00b7 raw",
+    "description": "Egg, whole, raw, fresh",
+    "category": "Eggs & meat",
+    "vegetarian": false,
+    "basis": 100,
+    "nutrients": {
+      "calories": 143.0,
+      "protein": 12.56,
+      "carbs": 0.72,
+      "fat": 9.51,
+      "fibre": 0.0,
+      "calcium": 56.0,
+      "iron": 1.75,
+      "magnesium": 12.0,
+      "potassium": 138.0,
+      "sodium": 142.0,
+      "zinc": 1.29,
+      "vitaminA": 160.0,
+      "vitaminC": 0.0,
+      "vitaminD": 2.0,
+      "vitaminB12": 0.89,
+      "folate": 47.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 171287",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/171287/nutrients",
+    "measures": [
+      {
+        "name": "1 large",
+        "grams": 50.0
+      },
+      {
+        "name": "1 extra large",
+        "grams": 56.0
+      },
+      {
+        "name": "1 jumbo",
+        "grams": 63.0
+      },
+      {
+        "name": "1 cup (4.86 large eggs)",
+        "grams": 243.0
+      },
+      {
+        "name": "1 medium",
+        "grams": 44.0
+      },
+      {
+        "name": "1 small",
+        "grams": 38.0
+      }
+    ]
+  },
+  {
+    "id": "usda-171477",
+    "name": "Chicken breast \u00b7 roasted, skinless",
+    "description": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+    "category": "Eggs & meat",
+    "vegetarian": false,
+    "basis": 100,
+    "nutrients": {
+      "calories": 165.0,
+      "protein": 31.02,
+      "carbs": 0.0,
+      "fat": 3.57,
+      "fibre": 0.0,
+      "calcium": 15.0,
+      "iron": 1.04,
+      "magnesium": 29.0,
+      "potassium": 256.0,
+      "sodium": 74.0,
+      "zinc": 1.0,
+      "vitaminA": 6.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.1,
+      "vitaminB12": 0.34,
+      "folate": 4.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 171477",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/171477/nutrients",
+    "measures": [
+      {
+        "name": "1 cup, chopped or diced",
+        "grams": 140.0
+      },
+      {
+        "name": "1 unit (yield from 1 lb ready-to-cook chicken)",
+        "grams": 52.0
+      },
+      {
+        "name": "0.5 breast, bone and skin removed",
+        "grams": 86.0
+      }
+    ]
+  },
+  {
+    "id": "usda-171688",
+    "name": "Apple \u00b7 raw, with skin",
+    "description": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",
+    "category": "Fruit",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 52.0,
+      "protein": 0.26,
+      "carbs": 13.81,
+      "fat": 0.17,
+      "fibre": 2.4,
+      "calcium": 6.0,
+      "iron": 0.12,
+      "magnesium": 5.0,
+      "potassium": 107.0,
+      "sodium": 1.0,
+      "zinc": 0.04,
+      "vitaminA": 3.0,
+      "vitaminC": 4.6,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 3.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 171688",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/171688/nutrients",
+    "measures": [
+      {
+        "name": "1 cup, quartered or chopped",
+        "grams": 125.0
+      },
+      {
+        "name": "1 cup slices",
+        "grams": 109.0
+      },
+      {
+        "name": "1 large (3-1/4\" dia)",
+        "grams": 223.0
+      },
+      {
+        "name": "1 medium (3\" dia)",
+        "grams": 182.0
+      },
+      {
+        "name": "1 small (2-3/4\" dia)",
+        "grams": 149.0
+      },
+      {
+        "name": "1 extra small (2-1/2\" dia)",
+        "grams": 101.0
+      },
+      {
+        "name": "1 NLEA serving",
+        "grams": 242.0
+      }
+    ]
+  },
+  {
+    "id": "usda-171844",
+    "name": "Roti / chapati \u00b7 commercially prepared",
+    "description": "Bread, chapati or roti, plain, commercially prepared",
+    "category": "Grains",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 297.0,
+      "protein": 11.25,
+      "carbs": 46.36,
+      "fat": 7.45,
+      "fibre": 4.9,
+      "calcium": 93.0,
+      "iron": 3.01,
+      "magnesium": 62.0,
+      "potassium": 266.0,
+      "sodium": 409.0,
+      "zinc": 1.57,
+      "vitaminA": null,
+      "vitaminC": null,
+      "vitaminD": null,
+      "vitaminB12": null,
+      "folate": null
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 171844",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/171844/nutrients",
+    "measures": [
+      {
+        "name": "1 piece",
+        "grams": 68.0
+      }
+    ]
+  },
+  {
+    "id": "usda-172217",
+    "name": "Whole milk \u00b7 unfortified",
+    "description": "Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",
+    "category": "Dairy & soy",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 61.0,
+      "protein": 3.15,
+      "carbs": 4.78,
+      "fat": 3.27,
+      "fibre": 0.0,
+      "calcium": 113.0,
+      "iron": 0.03,
+      "magnesium": 10.0,
+      "potassium": 132.0,
+      "sodium": 43.0,
+      "zinc": 0.37,
+      "vitaminA": 46.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.1,
+      "vitaminB12": 0.45,
+      "folate": 5.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 172217",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/172217/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 244.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 15.0
+      },
+      {
+        "name": "1 fl oz",
+        "grams": 30.5
+      },
+      {
+        "name": "1 quart",
+        "grams": 976.0
+      }
+    ]
+  },
+  {
+    "id": "usda-172337",
+    "name": "Mustard oil",
+    "description": "Oil, mustard",
+    "category": "Oils & extras",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 884.0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 100.0,
+      "fibre": 0.0,
+      "calcium": 0.0,
+      "iron": 0.0,
+      "magnesium": 0.0,
+      "potassium": 0.0,
+      "sodium": 0.0,
+      "zinc": 0.0,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": null,
+      "vitaminB12": 0.0,
+      "folate": 0.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 172337",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/172337/nutrients",
+    "measures": [
+      {
+        "name": "1 tbsp",
+        "grams": 14.0
+      },
+      {
+        "name": "1 cup",
+        "grams": 218.0
+      },
+      {
+        "name": "1 tsp",
+        "grams": 4.5
+      }
+    ]
+  },
+  {
+    "id": "usda-172421",
+    "name": "Lentils / dal \u00b7 boiled, no salt",
+    "description": "Lentils, mature seeds, cooked, boiled, without salt",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 116.0,
+      "protein": 9.02,
+      "carbs": 20.13,
+      "fat": 0.38,
+      "fibre": 7.9,
+      "calcium": 19.0,
+      "iron": 3.33,
+      "magnesium": 36.0,
+      "potassium": 369.0,
+      "sodium": 2.0,
+      "zinc": 1.27,
+      "vitaminA": 0.0,
+      "vitaminC": 1.5,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 181.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 172421",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/172421/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 198.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 12.3
+      }
+    ]
+  },
+  {
+    "id": "usda-172436",
+    "name": "Toor / pigeon peas \u00b7 dry",
+    "description": "Pigeon peas (red gram), mature seeds, raw",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 343.0,
+      "protein": 21.7,
+      "carbs": 62.78,
+      "fat": 1.49,
+      "fibre": 15.0,
+      "calcium": 130.0,
+      "iron": 5.23,
+      "magnesium": 183.0,
+      "potassium": 1392.0,
+      "sodium": 17.0,
+      "zinc": 2.76,
+      "vitaminA": 1.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 456.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 172436",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/172436/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 205.0
+      }
+    ]
+  },
+  {
+    "id": "usda-172437",
+    "name": "Toor / pigeon peas \u00b7 boiled",
+    "description": "Pigeon peas (red gram), mature seeds, cooked, boiled, without salt",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 121.0,
+      "protein": 6.76,
+      "carbs": 23.25,
+      "fat": 0.38,
+      "fibre": 6.7,
+      "calcium": 43.0,
+      "iron": 1.11,
+      "magnesium": 46.0,
+      "potassium": 384.0,
+      "sodium": 5.0,
+      "zinc": 0.9,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 111.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 172437",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/172437/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 168.0
+      }
+    ]
+  },
+  {
+    "id": "usda-172475",
+    "name": "Firm tofu \u00b7 calcium-set",
+    "description": "Tofu, raw, firm, prepared with calcium sulfate",
+    "category": "Dairy & soy",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 144.0,
+      "protein": 17.27,
+      "carbs": 2.78,
+      "fat": 8.72,
+      "fibre": 2.3,
+      "calcium": 683.0,
+      "iron": 2.66,
+      "magnesium": 58.0,
+      "potassium": 237.0,
+      "sodium": 14.0,
+      "zinc": 1.57,
+      "vitaminA": null,
+      "vitaminC": 0.2,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 29.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 172475",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/172475/nutrients",
+    "measures": [
+      {
+        "name": "0.5 cup",
+        "grams": 126.0
+      },
+      {
+        "name": "0.25 block",
+        "grams": 81.0
+      }
+    ]
+  },
+  {
+    "id": "usda-172688",
+    "name": "Whole-wheat bread",
+    "description": "Bread, whole-wheat, commercially prepared",
+    "category": "Grains",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 252.0,
+      "protein": 12.45,
+      "carbs": 42.71,
+      "fat": 3.5,
+      "fibre": 6.0,
+      "calcium": 161.0,
+      "iron": 2.47,
+      "magnesium": 75.0,
+      "potassium": 254.0,
+      "sodium": 455.0,
+      "zinc": 1.77,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 42.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 172688",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/172688/nutrients",
+    "measures": [
+      {
+        "name": "1 slice",
+        "grams": 32.0
+      },
+      {
+        "name": "1 oz",
+        "grams": 28.35
+      }
+    ]
+  },
+  {
+    "id": "usda-173044",
+    "name": "Guava \u00b7 raw",
+    "description": "Guavas, common, raw",
+    "category": "Fruit",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 68.0,
+      "protein": 2.55,
+      "carbs": 14.32,
+      "fat": 0.95,
+      "fibre": 5.4,
+      "calcium": 18.0,
+      "iron": 0.26,
+      "magnesium": 22.0,
+      "potassium": 417.0,
+      "sodium": 2.0,
+      "zinc": 0.23,
+      "vitaminA": 31.0,
+      "vitaminC": 228.3,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 49.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173044",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173044/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 165.0
+      },
+      {
+        "name": "1 fruit, without refuse",
+        "grams": 55.0
+      }
+    ]
+  },
+  {
+    "id": "usda-173412",
+    "name": "Butter oil / ghee \u00b7 anhydrous",
+    "description": "Butter oil, anhydrous",
+    "category": "Oils & extras",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 876.0,
+      "protein": 0.28,
+      "carbs": 0.0,
+      "fat": 99.48,
+      "fibre": 0.0,
+      "calcium": 4.0,
+      "iron": 0.0,
+      "magnesium": 0.0,
+      "potassium": 5.0,
+      "sodium": 2.0,
+      "zinc": 0.01,
+      "vitaminA": 840.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.01,
+      "folate": 0.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173412",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173412/nutrients",
+    "measures": [
+      {
+        "name": "1 tbsp",
+        "grams": 12.8
+      },
+      {
+        "name": "1 cup",
+        "grams": 205.0
+      }
+    ]
+  },
+  {
+    "id": "usda-173424",
+    "name": "Egg \u00b7 hard-boiled",
+    "description": "Egg, whole, cooked, hard-boiled",
+    "category": "Eggs & meat",
+    "vegetarian": false,
+    "basis": 100,
+    "nutrients": {
+      "calories": 155.0,
+      "protein": 12.58,
+      "carbs": 1.12,
+      "fat": 10.61,
+      "fibre": 0.0,
+      "calcium": 50.0,
+      "iron": 1.19,
+      "magnesium": 10.0,
+      "potassium": 126.0,
+      "sodium": 124.0,
+      "zinc": 1.05,
+      "vitaminA": 149.0,
+      "vitaminC": 0.0,
+      "vitaminD": 2.2,
+      "vitaminB12": 1.11,
+      "folate": 44.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173424",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173424/nutrients",
+    "measures": [
+      {
+        "name": "1 cup, chopped",
+        "grams": 136.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 8.5
+      },
+      {
+        "name": "1 large",
+        "grams": 50.0
+      }
+    ]
+  },
+  {
+    "id": "usda-173468",
+    "name": "Table salt",
+    "description": "Salt, table",
+    "category": "Oils & extras",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 0.0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "fibre": 0.0,
+      "calcium": 24.0,
+      "iron": 0.33,
+      "magnesium": 1.0,
+      "potassium": 8.0,
+      "sodium": 38758.0,
+      "zinc": 0.1,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 0.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173468",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173468/nutrients",
+    "measures": [
+      {
+        "name": "1 tsp",
+        "grams": 6.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 18.0
+      },
+      {
+        "name": "1 cup",
+        "grams": 292.0
+      },
+      {
+        "name": "1 dash",
+        "grams": 0.4
+      }
+    ]
+  },
+  {
+    "id": "usda-173744",
+    "name": "Rajma / red kidney beans \u00b7 dry",
+    "description": "Beans, kidney, red, mature seeds, raw",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 337.0,
+      "protein": 22.53,
+      "carbs": 61.29,
+      "fat": 1.06,
+      "fibre": 15.2,
+      "calcium": 83.0,
+      "iron": 6.69,
+      "magnesium": 138.0,
+      "potassium": 1359.0,
+      "sodium": 12.0,
+      "zinc": 2.79,
+      "vitaminA": 0.0,
+      "vitaminC": 4.5,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 394.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173744",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173744/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 184.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 12.2
+      }
+    ]
+  },
+  {
+    "id": "usda-173756",
+    "name": "Chickpeas / chana \u00b7 dry",
+    "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 378.0,
+      "protein": 20.47,
+      "carbs": 62.95,
+      "fat": 6.04,
+      "fibre": 12.2,
+      "calcium": 57.0,
+      "iron": 4.31,
+      "magnesium": 79.0,
+      "potassium": 718.0,
+      "sodium": 24.0,
+      "zinc": 2.76,
+      "vitaminA": 3.0,
+      "vitaminC": 4.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 557.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173756",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173756/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 200.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 12.5
+      }
+    ]
+  },
+  {
+    "id": "usda-173757",
+    "name": "Chickpeas / chana \u00b7 boiled, no salt",
+    "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 164.0,
+      "protein": 8.86,
+      "carbs": 27.42,
+      "fat": 2.59,
+      "fibre": 7.6,
+      "calcium": 49.0,
+      "iron": 2.89,
+      "magnesium": 48.0,
+      "potassium": 291.0,
+      "sodium": 7.0,
+      "zinc": 1.53,
+      "vitaminA": 1.0,
+      "vitaminC": 1.3,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 172.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173757",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173757/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 164.0
+      }
+    ]
+  },
+  {
+    "id": "usda-173806",
+    "name": "Peanuts \u00b7 dry-roasted, unsalted",
+    "description": "Peanuts, all types, dry-roasted, without salt",
+    "category": "Nuts & seeds",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 587.0,
+      "protein": 24.35,
+      "carbs": 21.26,
+      "fat": 49.66,
+      "fibre": 8.4,
+      "calcium": 58.0,
+      "iron": 1.58,
+      "magnesium": 178.0,
+      "potassium": 634.0,
+      "sodium": 6.0,
+      "zinc": 2.77,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 97.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173806",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173806/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 146.0
+      },
+      {
+        "name": "1 oz",
+        "grams": 28.35
+      },
+      {
+        "name": "1 peanut",
+        "grams": 1.0
+      }
+    ]
+  },
+  {
+    "id": "usda-173904",
+    "name": "Oats \u00b7 dry, unfortified",
+    "description": "Cereals, oats, regular and quick, not fortified, dry",
+    "category": "Grains",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 379.0,
+      "protein": 13.15,
+      "carbs": 67.7,
+      "fat": 6.52,
+      "fibre": 10.1,
+      "calcium": 52.0,
+      "iron": 4.25,
+      "magnesium": 138.0,
+      "potassium": 362.0,
+      "sodium": 6.0,
+      "zinc": 3.64,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 32.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173904",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173904/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 81.0
+      },
+      {
+        "name": "0.33 cup",
+        "grams": 27.0
+      }
+    ]
+  },
+  {
+    "id": "usda-173905",
+    "name": "Oats \u00b7 cooked in water, no salt",
+    "description": "Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt",
+    "category": "Grains",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 71.0,
+      "protein": 2.54,
+      "carbs": 12.0,
+      "fat": 1.52,
+      "fibre": 1.7,
+      "calcium": 9.0,
+      "iron": 0.9,
+      "magnesium": 27.0,
+      "potassium": 70.0,
+      "sodium": 4.0,
+      "zinc": 1.0,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 6.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173905",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173905/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 234.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 14.6
+      },
+      {
+        "name": "0.75 cup",
+        "grams": 175.0
+      }
+    ]
+  },
+  {
+    "id": "usda-173944",
+    "name": "Banana \u00b7 raw",
+    "description": "Bananas, raw",
+    "category": "Fruit",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 89.0,
+      "protein": 1.09,
+      "carbs": 22.84,
+      "fat": 0.33,
+      "fibre": 2.6,
+      "calcium": 5.0,
+      "iron": 0.26,
+      "magnesium": 27.0,
+      "potassium": 358.0,
+      "sodium": 1.0,
+      "zinc": 0.15,
+      "vitaminA": 3.0,
+      "vitaminC": 8.7,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 20.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 173944",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/173944/nutrients",
+    "measures": [
+      {
+        "name": "1 cup, mashed",
+        "grams": 225.0
+      },
+      {
+        "name": "1 cup, sliced",
+        "grams": 150.0
+      },
+      {
+        "name": "1 extra small (less than 6\" long)",
+        "grams": 81.0
+      },
+      {
+        "name": "1 small (6\" to 6-7/8\" long)",
+        "grams": 101.0
+      },
+      {
+        "name": "1 medium (7\" to 7-7/8\" long)",
+        "grams": 118.0
+      },
+      {
+        "name": "1 large (8\" to 8-7/8\" long)",
+        "grams": 136.0
+      },
+      {
+        "name": "1 extra large (9\" or longer)",
+        "grams": 152.0
+      },
+      {
+        "name": "1 NLEA serving",
+        "grams": 126.0
+      }
+    ]
+  },
+  {
+    "id": "usda-174256",
+    "name": "Moong / mung beans \u00b7 dry",
+    "description": "Mung beans, mature seeds, raw",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 347.0,
+      "protein": 23.86,
+      "carbs": 62.62,
+      "fat": 1.15,
+      "fibre": 16.3,
+      "calcium": 132.0,
+      "iron": 6.74,
+      "magnesium": 189.0,
+      "potassium": 1246.0,
+      "sodium": 15.0,
+      "zinc": 2.68,
+      "vitaminA": 6.0,
+      "vitaminC": 4.8,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 625.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 174256",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/174256/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 207.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 13.0
+      }
+    ]
+  },
+  {
+    "id": "usda-174257",
+    "name": "Moong / mung beans \u00b7 boiled",
+    "description": "Mung beans, mature seeds, cooked, boiled, without salt",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 105.0,
+      "protein": 7.02,
+      "carbs": 19.15,
+      "fat": 0.38,
+      "fibre": 7.6,
+      "calcium": 27.0,
+      "iron": 1.4,
+      "magnesium": 48.0,
+      "potassium": 266.0,
+      "sodium": 2.0,
+      "zinc": 0.84,
+      "vitaminA": 1.0,
+      "vitaminC": 1.0,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 159.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 174257",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/174257/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 202.0
+      }
+    ]
+  },
+  {
+    "id": "usda-175176",
+    "name": "Tilapia fish \u00b7 raw",
+    "description": "Fish, tilapia, raw",
+    "category": "Eggs & meat",
+    "vegetarian": false,
+    "basis": 100,
+    "nutrients": {
+      "calories": 96.0,
+      "protein": 20.08,
+      "carbs": 0.0,
+      "fat": 1.7,
+      "fibre": 0.0,
+      "calcium": 10.0,
+      "iron": 0.56,
+      "magnesium": 27.0,
+      "potassium": 302.0,
+      "sodium": 52.0,
+      "zinc": 0.33,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 3.1,
+      "vitaminB12": 1.58,
+      "folate": 24.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 175176",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/175176/nutrients",
+    "measures": [
+      {
+        "name": "1 fillet",
+        "grams": 116.0
+      }
+    ]
+  },
+  {
+    "id": "usda-175177",
+    "name": "Tilapia fish \u00b7 cooked, dry heat",
+    "description": "Fish, tilapia, cooked, dry heat",
+    "category": "Eggs & meat",
+    "vegetarian": false,
+    "basis": 100,
+    "nutrients": {
+      "calories": 128.0,
+      "protein": 26.15,
+      "carbs": 0.0,
+      "fat": 2.65,
+      "fibre": 0.0,
+      "calcium": 14.0,
+      "iron": 0.69,
+      "magnesium": 34.0,
+      "potassium": 380.0,
+      "sodium": 56.0,
+      "zinc": 0.41,
+      "vitaminA": 0.0,
+      "vitaminC": 0.0,
+      "vitaminD": 3.7,
+      "vitaminB12": 1.86,
+      "folate": 6.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 175177",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/175177/nutrients",
+    "measures": [
+      {
+        "name": "1 fillet",
+        "grams": 87.0
+      }
+    ]
+  },
+  {
+    "id": "usda-175194",
+    "name": "Rajma / red kidney beans \u00b7 boiled",
+    "description": "Beans, kidney, red, mature seeds, cooked, boiled, without salt",
+    "category": "Pulses",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 127.0,
+      "protein": 8.67,
+      "carbs": 22.8,
+      "fat": 0.5,
+      "fibre": 7.4,
+      "calcium": 28.0,
+      "iron": 2.94,
+      "magnesium": 45.0,
+      "potassium": 403.0,
+      "sodium": 2.0,
+      "zinc": 1.07,
+      "vitaminA": 0.0,
+      "vitaminC": 1.2,
+      "vitaminD": 0.0,
+      "vitaminB12": 0.0,
+      "folate": 130.0
+    },
+    "source": "USDA FoodData Central \u00b7 SR Legacy 2018 \u00b7 FDC 175194",
+    "sourceUrl": "https://fdc.nal.usda.gov/food-details/175194/nutrients",
+    "measures": [
+      {
+        "name": "1 cup",
+        "grams": 177.0
+      },
+      {
+        "name": "1 tbsp",
+        "grams": 11.0
+      }
+    ]
+  },
+  {
+    "id": "label-amul-fresh-paneer",
+    "name": "Amul Fresh Paneer \u00b7 package reference",
+    "description": "Manufacturer product page (2022 label); check your current pack. Not a generic value for every paneer. Values per 100 g; label serving 50 g.",
+    "category": "Dairy & soy",
+    "vegetarian": true,
+    "basis": 100,
+    "nutrients": {
+      "calories": 312,
+      "protein": 20,
+      "carbs": 4,
+      "fat": 24,
+      "fibre": null,
+      "calcium": 480,
+      "iron": null,
+      "magnesium": null,
+      "potassium": null,
+      "sodium": 24,
+      "zinc": null,
+      "vitaminA": null,
+      "vitaminC": null,
+      "vitaminD": null,
+      "vitaminB12": null,
+      "folate": null
+    },
+    "source": "Sabar Dairy / Amul Fresh Paneer product specification \u00b7 accessed 5 Oct 2026",
+    "sourceUrl": "https://sabardairy.org/product/amul-fresh-paneer/",
+    "measures": [
+      {
+        "name": "label serving",
+        "grams": 50
+      }
+    ]
+  }
+]

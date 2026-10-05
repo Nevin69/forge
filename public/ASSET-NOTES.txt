@@ -1,0 +1,4 @@
+dumbbell-hero.png — Original AI-generated fitness cutout created for Forge on 5 October 2026. Transparent background, vintage iron dumbbell held by an adult forearm, ruby lighting. Generated once with OpenAI image generation; no third-party reference imagery or branding used.
+favicon.svg — Original simple typographic favicon.
+Icons — Lucide, ISC licence, supplied through lucide-react.
+Fonts — User device's Georgia / Times New Roman and Arial / Helvetica; no external font service.
