@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import { assetUrl } from "@/lib/deployment";
 import {
   LayoutDashboard,
   BookOpen,
@@ -103,7 +104,7 @@ export default function App() {
   useEffect(() => {
     if ("serviceWorker" in navigator && process.env.NODE_ENV === "production") {
       navigator.serviceWorker
-        .register("/sw.js")
+        .register(assetUrl("sw.js"))
         .then(async (r) => {
           await navigator.serviceWorker.ready;
           const urls = performance
@@ -116,7 +117,7 @@ export default function App() {
             );
           r.active?.postMessage({
             type: "CACHE_ASSETS",
-            urls: [location.origin + "/", ...urls],
+            urls: [new URL(assetUrl(""), location.origin).href, ...urls],
           });
         })
         .catch(() => {});

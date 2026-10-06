@@ -1,4 +1,5 @@
 "use client";
+import { assetUrl } from "@/lib/deployment";
 import { useEffect, useRef } from "react";
 import {
   Flame,
@@ -52,10 +53,20 @@ export default function Landing() {
           </nav>
         </header>
         <div className="hero-object object-left" aria-hidden="true">
-          <img src="/dumbbell-hero.png" alt="" width="1254" height="1254" />
+          <img
+            src={assetUrl("dumbbell-hero.png")}
+            alt=""
+            width="1254"
+            height="1254"
+          />
         </div>
         <div className="hero-object object-right" aria-hidden="true">
-          <img src="/dumbbell-hero.png" alt="" width="1254" height="1254" />
+          <img
+            src={assetUrl("dumbbell-hero.png")}
+            alt=""
+            width="1254"
+            height="1254"
+          />
         </div>
         <div className="hero-copy">
           <div className="eyebrow">
